@@ -6,7 +6,10 @@ public class Five {
 	 int a=10;
 	 int b= 5;
 	 System.out.println(a+b);
-
 	}
-
+	
+	 public static void div(int a, int b) {
+	
+          System.out.println(a+b);
+}
 }
